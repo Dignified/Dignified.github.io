@@ -1,0 +1,12 @@
+body {
+    background-color: violet;
+
+}
+body a {
+    text-decoration: none;
+    color: red;
+}
+body li {
+    font-size: 32px;
+    color: red;
+}
